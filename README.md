@@ -9,7 +9,6 @@ https://app.powerbi.com/groups/me/reports/aecdeb51-aa3b-4c0b-a04c-6aafcad24077/R
 [About The Project] (#about—the—project)
 [Screenshots] (#screenshots)
 [Technologies] (#technologies)
-[Setup] (#setup)
 [Approach] (#approach)
 [Key Features] (#key features)
 [Benefits] (#benefits)
