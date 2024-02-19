@@ -19,7 +19,8 @@ https://app.powerbi.com/groups/me/reports/aecdeb51-aa3b-4c0b-a04c-6aafcad24077/R
 The project features a dashboard for sentiment analysis of app reviews, offering insights into user feedback across various app versions. Divided into sections, it provides an overview of sentiment analysis for all app versions, along with sentiment breakdowns for each version and word clouds displaying frequently used terms in positive, negative, and neutral reviews. Utilizing Python, the tool performs data cleaning and sentiment extraction, empowering developers to track sentiment trends, identify areas for enhancement, and gauge the impact of updates on user satisfaction. With its interactive filtering capabilities, developers can delve into specific sentiments and individual reviews, fostering a deeper understanding of user sentiments and facilitating targeted improvements for enhanced user experience.
 
 ## Screenshot
-Screenshot 
+Screenshot https://github.com/Karan-Chuahan-10/App-Sentiment-Analysis/tree/49cf654d63229e82fea2c63d1bfd479b0b7cf34b/Screenshot
+
 ## Technologies
 - **Jupyter Notebook:**  Used for cleaning and extracting the sentiment from the source code  
 
